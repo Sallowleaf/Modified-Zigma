@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Modified Zigma, Configuration: Debug Win32 ------
+1>Modified Zigma.cpp
+1>Modified Zigma.vcxproj -> C:\Users\Navid\Documents\Visual Studio 2017\Projects\Modified Zigma\Debug\Modified Zigma.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
